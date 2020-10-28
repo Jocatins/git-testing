@@ -1,0 +1,18 @@
+.box {
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  border: 1px solid;
+}
+.red {
+  background-color: red;
+}
+.aqua {
+  background-color: aqua;
+}
+.green {
+  background-color: green;
+}
+.default {
+  background-color: gray;
+}
